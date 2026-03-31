@@ -4,3 +4,9 @@ Edit the image: ensure the office chair remains empty and unoccupied, with its d
 
 ## yolo data train image size 
 640 * 426 
+
+
+## to do
+resize
+png to jpg
+generate more images
